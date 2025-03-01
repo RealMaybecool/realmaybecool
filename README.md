@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Maybecool 👋
 
-<!--
-**RealMaybecool/realmaybecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer specializing in [ web development, AI, game development, and animating]. I love building innovative projects and contributing to open-source.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **a Dev Finder Discord Bot**
+- 🌱 I’m learning **Python and JavaScript**
+- 💬 Ask me about **Python and JavaScript**
+- 📫 How to reach me: **[Your email or social links]**
+- ⚡ Fun fact: **[A fun fact about you]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github)
+
+## 📌 Featured Projects
+
+### Moderation Bot
+📝 Description: A powerful Discord bot designed for server moderation, featuring automated moderation tools, custom commands, and user management.
+
+### Rocket League Rank Tracker
+📝 Description: A bot that tracks Rocket League player ranks, providing real-time updates and stats for competitive players.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](Your LinkedIn Profile Link)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](Your Twitter Profile Link)
+[![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord)](Your Discord Profile Link)
+
+---
+💡 *Always eager to learn and collaborate on exciting projects!*
