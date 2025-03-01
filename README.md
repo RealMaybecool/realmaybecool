@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in [ web developme
 - ⚡ Fun fact: **[A fun fact about you]**
 
 ## 🛠️ Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github)
+![Tech Stack](https://skillicons.dev/icons?i=html,js,nodejs,python,)
 
 ## 📌 Featured Projects
 
@@ -24,11 +24,6 @@ Welcome to my GitHub! I'm a passionate developer specializing in [ web developme
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](Your LinkedIn Profile Link)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](Your Twitter Profile Link)
-[![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord)](Your Discord Profile Link)
 
 ---
 💡 *Always eager to learn and collaborate on exciting projects!*
