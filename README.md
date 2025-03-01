@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a passionate developer specializing in [ web developme
 - 🔭 I’m currently working on **a Dev Finder Discord Bot**
 - 🌱 I’m learning **Python and JavaScript**
 - 💬 Ask me about **Python and JavaScript**
-- 📫 How to reach me: **[Your email or social links]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 📫 How to reach me: **[Realmaybecool On Discord]**
+- ⚡ Fun fact: **[I have been coding for over 2 years and still have much more to learn. As they say,"The Sky Is The Limit."]**
 
 ## 🛠️ Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=html,js,nodejs,python,)
