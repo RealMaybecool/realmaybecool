@@ -17,6 +17,9 @@ Welcome to my GitHub! I'm a passionate developer specializing in [ web developme
 ### Moderation Bot
 📝 Description: A powerful Discord bot designed for server moderation, featuring automated moderation tools, custom commands, and user management.
 
+### Anti-Predator Protection Bot:
+A highly advanced system designed to detect and protect against predators and inappropriate users in Discord servers. Features include behavior monitoring, suspicious keyword tracking, reporting systems, and instant alerts for server owners.
+
 ### Rocket League Rank Tracker
 📝 Description: A bot that tracks Rocket League player ranks, providing real-time updates and stats for competitive players.
 
